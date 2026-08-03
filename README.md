@@ -33,8 +33,8 @@ COZY is designed around clear actions, account-based settings, safe release deli
 - Additional emulator features and profiles will continue to arrive in future updates.
 
 <p align="center">
-  <img src="docs/images/cozytweaks-emulator-optimizer.png" alt="CozyTweaks Emulator Optimizer for improving emulator performance" width="49%">
-  <img src="docs/images/cozytweaks-emulator-debloater.png" alt="CozyTweaks Emulator Debloater for managing unnecessary emulator components" width="49%">
+  <img src="/Images/Emu Optimizer.png" alt="CozyTweaks Emulator Optimizer for improving emulator performance" width="49%">
+  <img src="/Images/Emu Deblot-2.png" alt="CozyTweaks Emulator Debloater for managing unnecessary emulator components" width="49%">
 </p>
 
 ### Clean Sweep
