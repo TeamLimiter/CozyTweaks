@@ -1,7 +1,7 @@
 # CozyTweaks - Windows PC Optimizer, Game Mode and System Cleanup Tool
 
 <p align="center">
-  <img src="docs/images/cozytweaks-windows-pc-optimizer.jpg" alt="CozyTweaks Windows PC optimizer dashboard with performance and system tuning tools" width="100%">
+  <img src="/Images/GitHub.png" alt="CozyTweaks Windows PC optimizer dashboard with performance and system tuning tools" width="100%">
 </p>
 
 **CozyTweaks (COZY)** is a Windows optimization application built to make PC maintenance, gaming performance tuning, system cleanup, and application management easier from one modern desktop interface.
