@@ -1,5 +1,9 @@
 # CozyTweaks - Windows PC Optimizer, Game Mode and System Cleanup Tool
 
+<p align="center">
+  <img src="docs/images/cozytweaks-windows-pc-optimizer.jpg" alt="CozyTweaks Windows PC optimizer dashboard with performance and system tuning tools" width="100%">
+</p>
+
 **CozyTweaks (COZY)** is a Windows optimization application built to make PC maintenance, gaming performance tuning, system cleanup, and application management easier from one modern desktop interface.
 
 Optimize Windows 10 and Windows 11, clean unnecessary files, manage startup applications and services, configure game-focused performance profiles, and access emulator tools without relying on complicated scripts or scattered utilities.
@@ -27,6 +31,11 @@ COZY is designed around clear actions, account-based settings, safe release deli
 - Manage emulator optimization and setup features separately from Game Mode.
 - Use guided controls designed for emulator performance workflows.
 - Additional emulator features and profiles will continue to arrive in future updates.
+
+<p align="center">
+  <img src="docs/images/cozytweaks-emulator-optimizer.png" alt="CozyTweaks Emulator Optimizer for improving emulator performance" width="49%">
+  <img src="docs/images/cozytweaks-emulator-debloater.png" alt="CozyTweaks Emulator Debloater for managing unnecessary emulator components" width="49%">
+</p>
 
 ### Clean Sweep
 
